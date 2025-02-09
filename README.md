@@ -24,7 +24,7 @@ Contributions are welcome! Feel free to fork the repository, create a branch, an
 
 ## License
 
-This project is under the CC-3.0-SA License. See the `LICENSE` file for details.
+This project is under the CC-BY-SA 3.0 License. See the `LICENSE` file for details.
 
 ## Contact
 
