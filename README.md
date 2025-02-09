@@ -30,3 +30,6 @@ This project is under the CC-BY-SA 3.0 License. See the `LICENSE` file for detai
 
 For questions or suggestions, feel free to reach out via GitHub Issues. Or add me on Discord: catonair (I can not react to everyone).
 
+## Info
+
+The Project isnt Published right now so you wont see anything here!
