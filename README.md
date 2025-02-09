@@ -20,7 +20,7 @@ SCP Site Director is a strategy simulation game where you take on the role of a 
 
 ## Contribution
 
-Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
+This project does not accept pull requests. Anyone interested in modifying or extending the project can download or clone the repository and redistribute their own version under the terms of the CC-BY-SA 3.0 License.
 
 ## License
 
@@ -28,5 +28,5 @@ This project is under the CC-BY-SA 3.0 License. See the `LICENSE` file for detai
 
 ## Contact
 
-For questions or suggestions, feel free to reach out via GitHub Issues. Or add me on Discord: catonair (I can not react to everyone)
+For questions or suggestions, feel free to reach out via GitHub Issues. Or add me on Discord: catonair (I can not react to everyone).
 
